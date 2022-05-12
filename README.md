@@ -1,6 +1,6 @@
 # Hardhat Project for Wulfz Official Smart Contract
 
-This project includes core smart contracts for the projct Wulfz.
+This project includes core smart contracts for the project Wulfz.
 
 Try running some of the following tasks:
 
